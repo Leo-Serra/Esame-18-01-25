@@ -1,0 +1,6 @@
+capsula vaniglia 2.30
+cialda cappuccino 2.60
+capsula dark_sensation 9.90
+capsula nero_arabica 7.60
+cialda velvet 15.90
+cialda dark_sensation 9.90 

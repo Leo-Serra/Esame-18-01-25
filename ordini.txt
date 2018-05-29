@@ -1,0 +1,10 @@
+2018/01/22 capsula vaniglia 10 123
+2018/01/22 cialda cappuccino 10 123
+2018/01/24 capsula dark_sensation 20 234
+2018/01/22 capsula nero_arabica 15 123
+2018/01/23 capsula decaffeinato -5 123
+2018/01/23 capsula decaffeinato 5 -999
+2018/01/23 pillola decaffeinato 5 123
+2018/01/24 cialda velvet 20 234
+2017/12/30 cialda dark_sensation 12 123
+2017/12/24 cialda adulto 20 234 
